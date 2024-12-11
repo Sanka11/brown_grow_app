@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294029544124",
+    "project_id": "brownapp-9c68c",
+    "storage_bucket": "brownapp-9c68c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294029544124:android:6f64bf31d633f3f22b5eb9",
+        "android_client_info": {
+          "package_name": "com.example.brown_grow_app.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RupPlxRQcW56-DxTvQloM0WXS1KOl4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
